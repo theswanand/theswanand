@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a `web developer` with more than 5 years of experience on varied technologies like `dotnet`, `angular` and `SQL Server`. Currently, I am also exploring `machine learning` and `neural netwroks` to enhance my learning scope and capability.
+I am a `web developer` with more than 5 years of experience on varied technologies like `dotnet`, `angular` and `SQL Server`. Currently, I am also exploring `machine learning` and `neural network` to enhance my learning scope and capabilities.
 
 ## Work Experience
 - 🎯 I’m currently working with BNP Paribas as a Software Engineer
