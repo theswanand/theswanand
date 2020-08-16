@@ -2,8 +2,8 @@
 I am a `web developer` with more than 5 years of experience on varied technologies like `dotnet`, `angular` and `SQL Server`. Currently, I am also exploring `machine learning` and `neural netwroks` to enhance my learning scope and capability.
 
 ## Work Experience
-- 🎯 I’m working with BNP Paribas as a Software Engineer from Aug 2018
-- 🍬 Prior to this I have worked with Financial Technologies for over 3 years
+- 🎯 I’m currently working with BNP Paribas as a Software Engineer
+- 🍬 Prior to this I have worked with Financial Technologies
 
 ## Education
 - 📚 I have completed Bachelors of Engineering in Information Technology from University of Mumbai 
