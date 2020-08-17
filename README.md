@@ -16,8 +16,6 @@ I am a `full stack` `web developer` with more than 5 years of experience on vari
 
 [<img src ="https://img.shields.io/badge/portfolio-web-%23.svg?&style=for-the-badge&logo=&logoColor=white%22">](https://theswanand.github.io/)
 [<img src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" />](https://www.linkedin.com/in/theswanand/)
-[![Visits Badge](https://badges.pufler.dev/visits/theswanand/theswanand?style=for-the-badge&color=blue)](https://github.com/theswanand/theswanand)
-![Repos Badge](https://badges.pufler.dev/repos/theswanand?style=for-the-badge&color=red)
 
 </p>
 
