@@ -1,10 +1,16 @@
 ### Hi there 👋
 I am a `full stack` `web developer` with more than 5 years of experience on varied technologies like `dotnet`, `angular` and `SQL Server`. Currently, I am exploring `machine learning` and `neural network` to enhance my learning scope and capabilities. Perennial enthusaist in learning new technologies.
 
-## Work
-- 🎯 I’m currently working with BNP Paribas as a Software Engineer
-- 🍬 Prior to this I have worked with Financial Technologies
-- ☎️ Started my career as an intren in MTNL Mumbai
+## 🎯 Work
+- Software Engineer, BNP Paribas
+
+  My role confines to analysis, development and testing for our in-house debt-based trading platform.
+ 
+  Tech Stack: `windows services`, `wcf` and `sql server`
+
+- Prior to this I have worked with Financial Technologies as a Software Engineer for our equities-based trading platform
+
+  Tech Stack: `windows services`, `web api`, `angular`, `knockout` and `sql server`
 
 ## Education
 - 📚 Post-graduate diploma in Advanced Computing from CDAC
