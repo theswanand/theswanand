@@ -4,7 +4,7 @@ I am a `full stack` `web developer` with more than 5 years of experience on vari
 ## 🎯 Work
 - Software Engineer, BNP Paribas
 
-  My role confines to analysis, development and testing for our in-house debt-based trading platform.
+  My role confines to analysis, development and testing for our in-house debt market trading platform.
  
   Tech Stack: `windows services`, `wcf` and `sql server`
 
