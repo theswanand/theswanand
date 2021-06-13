@@ -1,5 +1,5 @@
 ### Hi there 👋
-I am a `full stack` `web developer` with more than 5 years of experience on varied technologies like `dotnet`, `angular` and `SQL Server`. Currently, I am exploring `machine learning` and `neural network` to enhance my learning scope and capabilities. Perennial enthusaist in learning new technologies.
+I am a `full stack` `developer` with more than 5 years of experience on technologies like `dotnet`, `angular` and `SQL Server`. Currently, I am exploring `machine learning` and `neural network` to enhance my learning scope and capabilities. Perennial enthusaist in learning new technologies.
 
 ## 🎯 Work
 - Software Engineer, BNP Paribas
