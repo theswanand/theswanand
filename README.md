@@ -6,11 +6,11 @@ I am a `full stack` `web developer` with more than 5 years of experience on vari
 
   My role confines to analysis, development and testing for our in-house debt market trading platform.
  
-  Tech Stack: `windows services`, `wcf` and `sql server`
+  Tech Stack: `wpf`, `wcf` and `sql server`
 
 - Prior to this I have worked with Financial Technologies as a Software Engineer for our equities-based trading platform
 
-  Tech Stack: `windows services`, `web api`, `angular`, `knockout` and `sql server`
+  Tech Stack: `angular`, `knockout`, `web api`, `wcf' and `sql server`
 
 ## Education
 - 📚 Post-graduate diploma in Advanced Computing from CDAC
